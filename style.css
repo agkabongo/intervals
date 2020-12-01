@@ -1,0 +1,7 @@
+.apple {
+    border-radius: 50px;
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative; /*USE RELATIVE OR ABSOLUTE TO USE LEFT TOP BOTTOM PROPERTIES*/  
+}
